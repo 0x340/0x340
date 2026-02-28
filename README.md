@@ -21,22 +21,8 @@
 
 ---
 
-### projects
-
-| repo | what it is |
-|---|---|
-| [Memory-Manager](https://github.com/0x340/Memory-Manager) | external r/w via direct syscall stubs, no ntdll |
-| [priv9-Lua](https://github.com/0x340/priv9-Lua) | lua ui library, works for basically anything |
-| [assets](https://github.com/0x340/assets) | lua scripts + misc drops |
-
----
-
 ### socials
 
-[![Discord](https://img.shields.io/badge/Discord-your__username-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/PLACEHOLDER)
+[![Discord](https://img.shields.io/badge/Discord-Lukiex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1249042790206410854)
 
 ---
-
-<div align="center">
-<sub>if you use my stuff, a credit goes a long way.</sub>
-</div>
