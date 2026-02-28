@@ -44,14 +44,13 @@ drwxr-xr-x  assets           lua scripts + misc drops
 
 ---
 
-### `cat stats.log`
+### `cat activity.log`
 
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=0x340&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x340&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x340/0x340/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x340/0x340/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/0x340/0x340/output/snake-dark.svg" />
+</picture>
 
 ---
 
