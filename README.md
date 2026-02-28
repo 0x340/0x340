@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/0x340/0x340/main/cube.svg" width="200"/>
+  
+<img src="https://media.tenor.com/BpKRFfRxLQEAAAAi/cube-spinning.gif" width="200"/>
+
 </div>
 
 ---
