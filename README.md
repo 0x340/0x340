@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=accessing+process+memory...;bypassing+ntdll+hooks...;syscall+stub+injected.+%5BOK%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=accessing+process+memory...;bypassing+ntdll+hooks...;syscall+stub+injected.+%5BOK%5D" alt="Typing SVG" />
 
 </div>
 
