@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+Profile;My+name+is+lukiex;I+mainly+focus+on+C%2B%2B" alt="Typing SVG" />
-
-</div>
 
 <div align="center">
   
