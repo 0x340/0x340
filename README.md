@@ -18,7 +18,11 @@
 
 
 <div align="center">
-### Socials
+## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-Lukiex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1249042790206410854)
+[![YouTube](https://img.shields.io/badge/YouTube-LukiexGate-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LukiexGate)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Lukiex-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/lukiex)
+
+
 </div>
