@@ -17,9 +17,8 @@
 </div>
 
 
-
-### socials
+<div align="center">
+### Socials
 
 [![Discord](https://img.shields.io/badge/Discord-Lukiex-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1249042790206410854)
-
----
+</div>
