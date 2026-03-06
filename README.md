@@ -17,8 +17,6 @@
 
 <div>
 
-**Socials**
-
 [![Discord](https://img.shields.io/badge/Discord-Lukiex-2b2b2b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1249042790206410854)
 
 [![YouTube](https://img.shields.io/badge/YouTube-LukiexGate-2b2b2b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LukiexGate)
