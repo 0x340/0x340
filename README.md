@@ -1,50 +1,38 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/5pstmhwvXH8AAAAd/twin-peaks-david-lynch.gif" width="220"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=lukiex;C%2B%2B+developer;low+level+development;reverse+engineering"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=30363d"/>
 
 </div>
 
-<h1 align="center">lukiex</h1>
+<br>
 
 <p align="center">
-low level development • reverse engineering • tooling
+low level tooling • windows internals • reverse engineering
 </p>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=grey)
-
-</div>
-
----
-
-### stack
+<br>
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-1f1f1f?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-1f1f1f?style=for-the-badge&logo=lua&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-1f1f1f?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-1f1f1f?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,lua,windows,visualstudio,git,github&theme=dark"/>
 
 </div>
 
----
-
-### stats
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lukiex&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lukiex&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukiex&layout=compact&theme=dark&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukiex&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
 </div>
 
----
-
-### activity
+<br>
 
 <div align="center">
 
@@ -52,16 +40,28 @@ low level development • reverse engineering • tooling
 
 </div>
 
----
-
-### links
+<br>
 
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-lukiex-2b2b2b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1249042790206410854)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-[![youtube](https://img.shields.io/badge/youtube-lukiexgate-2b2b2b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LukiexGate)
+</div>
 
-[![soundcloud](https://img.shields.io/badge/soundcloud-lukiex-2b2b2b?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/lukiex)
+<br>
+
+<div align="center">
+
+<a href="https://discord.com/users/1249042790206410854">
+<img src="https://img.shields.io/badge/discord-lukiex-30363d?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@LukiexGate">
+<img src="https://img.shields.io/badge/youtube-lukiexgate-30363d?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://soundcloud.com/lukiex">
+<img src="https://img.shields.io/badge/soundcloud-lukiex-30363d?style=for-the-badge&logo=soundcloud&logoColor=white">
+</a>
 
 </div>
