@@ -1,11 +1,4 @@
 <div align="center">
-  
-# <img src="https://media1.tenor.com/m/5pstmhwvXH8AAAAd/twin-peaks-david-lynch.gif" width="200"/>
-
-</div>
-
-
-<div align="center">
 
 ![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=d9d9d9)
 ![Lua](https://img.shields.io/badge/Lua-343434?style=for-the-badge&logo=lua&logoColor=e6e6e6)
