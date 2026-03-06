@@ -1,67 +1,35 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=lukiex;C%2B%2B+developer;low+level+development;reverse+engineering"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=30363d"/>
+  
+# <img src="https://media1.tenor.com/m/5pstmhwvXH8AAAAd/twin-peaks-david-lynch.gif" width="200"/>
 
 </div>
 
-<br>
-
-<p align="center">
-low level tooling • windows internals • reverse engineering
-</p>
-
-<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,lua,windows,visualstudio,git,github&theme=dark"/>
+![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=d9d9d9)
+![Lua](https://img.shields.io/badge/Lua-343434?style=for-the-badge&logo=lua&logoColor=e6e6e6)
+![Windows](https://img.shields.io/badge/Windows-3d3d3d?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-464646?style=for-the-badge&logo=visual-studio&logoColor=ffffff)
 
 </div>
 
-<br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lukiex&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukiex&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img src="https://komarev.com/ghpvc/?username=lukiex&style=for-the-badge&color=555555"/>
 
 </div>
 
-<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukiex&theme=github-dark&hide_border=true&bg_color=00000000"/>
+**Socials**
 
-</div>
+[![Discord](https://img.shields.io/badge/Discord-Lukiex-2b2b2b?style=for-the-badge&logo=discord&logoColor=d9d9d9)](https://discord.com/users/1249042790206410854)
 
-<br>
+[![YouTube](https://img.shields.io/badge/YouTube-LukiexGate-3d3d3d?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@LukiexGate)
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://discord.com/users/1249042790206410854">
-<img src="https://img.shields.io/badge/discord-lukiex-30363d?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@LukiexGate">
-<img src="https://img.shields.io/badge/youtube-lukiexgate-30363d?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="https://soundcloud.com/lukiex">
-<img src="https://img.shields.io/badge/soundcloud-lukiex-30363d?style=for-the-badge&logo=soundcloud&logoColor=white">
-</a>
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Lukiex-464646?style=for-the-badge&logo=soundcloud&logoColor=ffffff)](https://soundcloud.com/lukiex)
 
 </div>
