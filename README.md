@@ -1,9 +1,12 @@
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2b2b2b?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2b2b2b?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://badgen.net/badge/icon/c%2B%2B?icon=c%2B%2B&label)
+
+![C#](https://badgen.net/badge/icon/csharp?icon=csharp&label)
+
+![Python](https://badgen.net/badge/icon/python?icon=python&label)
+
+![Lua](https://badgen.net/badge/icon/lua?icon=lua&label)
 
 </div>
 
