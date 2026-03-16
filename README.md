@@ -1,9 +1,9 @@
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2b2b2b?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2b2b2b?style=for-the-badge&logo=lua&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-2b2b2b?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-2b2b2b?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
 
