@@ -1,7 +1,6 @@
 <div align="center">
 
 ![C++](https://badgen.net/badge/icon/c%2B%2B?icon=c%2B%2B&label&color=2b2b2b&iconColor=white)
-![C#](https://badgen.net/badge/icon/csharp?icon=csharp&label&color=2b2b2b&iconColor=white)
 ![Python](https://badgen.net/badge/icon/python?icon=python&label&color=2b2b2b&iconColor=white)
 ![Lua](https://badgen.net/badge/icon/lua?icon=lua&label&color=2b2b2b&iconColor=white)
 
