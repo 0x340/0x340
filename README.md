@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=Clawtir&color=2b2b2b&iconColor=white)](https://discord.com/users/1484683181344161853)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=lukiex&color=2b2b2b&iconColor=white)](https://discord.com/users/1484683181344161853)
 [![YouTube](https://badgen.net/badge/icon/youtube?icon=youtube&label=Clawtir&color=2b2b2b&iconColor=white)](https://www.youtube.com/@Clawtir)
 [![SoundCloud](https://badgen.net/badge/icon/soundcloud?icon=soundcloud&label=Clawtir&color=2b2b2b&iconColor=white)](https://soundcloud.com/clawtir)
 
