@@ -15,6 +15,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lukiex&style=for-the-badge&color=2b2b2b"/>
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=lukiex&color=blueviolet)
 
 </div>
