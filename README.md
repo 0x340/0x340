@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=lukiex&color=2b2b2b&iconColor=white)](https://discord.com/users/1484683181344161853)
-[![YouTube](https://badgen.net/badge/icon/youtube?icon=youtube&label=Clawtir&color=2b2b2b&iconColor=white)](https://www.youtube.com/@lukiex22)
+[![YouTube](https://badgen.net/badge/icon/youtube?icon=youtube&label=lukiex22&color=2b2b2b&iconColor=white)](https://www.youtube.com/@lukiex22)
 
 </div>
 
