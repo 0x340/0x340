@@ -17,6 +17,6 @@
 
 <div align="left">
 <p align="left">
-&nbsp;<img src="https://komarev.com/ghpvc/?username=lukiex&color=2b2b2b" />
+<img src="https://komarev.com/ghpvc/?username=lukiex&color=2b2b2b" />
 </p>
 </div>
