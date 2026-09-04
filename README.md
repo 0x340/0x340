@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![C++](https://badgen.net/badge/icon/c%2B%2B?icon=c%2B%2B&label&color=2b2b2b&iconColor=white)
 ![Python](https://badgen.net/badge/icon/python?icon=python&label&color=2b2b2b&iconColor=white)
@@ -6,15 +6,15 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label=lukiex&color=2b2b2b&iconColor=white)](https://discord.com/users/1484683181344161853)
 [![YouTube](https://badgen.net/badge/icon/youtube?icon=youtube&label=lukiex22&color=2b2b2b&iconColor=white)](https://www.youtube.com/@lukiex22)
 
 </div>
 
-<div align="center">
+<div align="left">
 
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=lukiex&color=2b2b2b)
+&nbsp;<p align="left">![](https://komarev.com/ghpvc/?username=lukiex&color=2b2b2b)
 
 </div>
