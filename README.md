@@ -17,7 +17,7 @@
 <div align="left">
 
   <img src="https://img.shields.io/badge/Discord-lukiex-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
-  [<img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@lukiex22)
+  <a href="https://www.youtube.com/@lukiex22"><img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
