@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=0x340&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-</p>
+<h2> Languages </h2>
 
+<div align="left">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
-  <img src="https://skillicons.dev/icons?i=c" height="48" />
-  <img src="https://skillicons.dev/icons?i=lua" height="48" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" />
-</p>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-03599c?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-555555?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
+  <img src="https://img.shields.io/badge/Html-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css-663399?style=for-the-badge&logo=css&logoColor=white"/>
+
+</div>
+
+<h2> Socials </h2>
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Discord-lukiex-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
+  [<img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@lukiex22)
+
+</div>
+
+&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=0x340&color=blueviolet)
