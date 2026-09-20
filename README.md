@@ -20,5 +20,3 @@
   <a href="https://www.youtube.com/@lukiex22"><img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
-
-&nbsp;<p align="center">![](https://komarev.com/ghpvc/?username=0x340&color=blueviolet)
