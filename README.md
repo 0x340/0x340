@@ -1,4 +1,3 @@
-<img src="https://idx.pics/images/random/lukiex_cc9041ff-3e2e-4916-acd8-f0c1fe36f1ee.png">
 <h2> Languages </h2>
 
 <div align="left">
