@@ -1,9 +1,8 @@
 <h2> (//_-) </h2>
 
-<h3> Languages </h3>
+<h3>Languages</h3>
 
 <div align="left">
-
   <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-03599c?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
@@ -14,10 +13,9 @@
 
 </div>
 
-<h3> Socials </h3>
+<h3>Socials</h3>
 
 <div align="left">
-
   <img src="https://img.shields.io/badge/Discord-lukiex-5865f2?style=flat-square&logo=discord&logoColor=white"/>
   <a href="https://www.youtube.com/@lukiex22"><img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
