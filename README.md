@@ -24,5 +24,5 @@
 <h2> Views </h2>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=004482&label=PROFILE+VIEWS&logo=eye&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=004482&label=Views&logo=eye&logoColor=white"/>
 </div>
