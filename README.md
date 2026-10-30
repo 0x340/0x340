@@ -1,4 +1,4 @@
-<h2> Languages </h2>
+<h3> Languages </h3>
 
 <div align="left">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<h2> Socials </h2>
+<h3> Socials </h3>
 
 <div align="left">
 
