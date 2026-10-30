@@ -1,4 +1,4 @@
-<h2> (//_-) </h2>
+<h1> (//_-) </h1>
 
 <h3>Languages</h3>
 <div align="left">
