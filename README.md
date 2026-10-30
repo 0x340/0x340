@@ -20,9 +20,3 @@
   <a href="https://www.youtube.com/@lukiex22"><img src="https://img.shields.io/badge/Youtube-lukiex22-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 
 </div>
-
-<h2> Views </h2>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=lukiex&style=flat-square&color=004482&label=Views&logo=eye&logoColor=white"/>
-</div>
